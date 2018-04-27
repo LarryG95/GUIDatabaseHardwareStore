@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * This class represents a transaction in the Hardware Store Software.
- * @author Junye Wen
+ * @author Lawrence Gomez
  */
 public class Transaction implements Serializable {
     private final String itemID;
