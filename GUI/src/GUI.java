@@ -1,6 +1,6 @@
 /**
  *
- * @author Lawrence Gomez, Late submisson april 22, 2018 :/
+ * @author Lawrence Gomez
  */
 
 import hardwarestore.HardwareStore;
