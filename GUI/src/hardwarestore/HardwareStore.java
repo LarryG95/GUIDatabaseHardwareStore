@@ -20,7 +20,7 @@ import java.util.*;
  * calling <CODE>writeDatabase()</CODE>. This class also provides methods for
  * adding, removing, and searching for items in the list.
  *
- * @author Junye Wen
+ * @author Lawrence Gomez
  */
 public class HardwareStore {
 
