@@ -8,7 +8,7 @@ package hardwarestore.items;
  * An item object can also call the override methods
  * <CODE>equals()</CODE>
  *
- * @author Junye Wen
+ * @author Lawrence Gomez
  */
 
 import java.io.Serializable;
