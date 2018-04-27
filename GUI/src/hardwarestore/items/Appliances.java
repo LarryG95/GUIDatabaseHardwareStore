@@ -3,7 +3,7 @@ package hardwarestore.items;
 
 /**
  *
- * @author Junye Wen
+ * @author Lawrence Gomez
  */
 public class Appliances extends Item {
     protected final String brand;
