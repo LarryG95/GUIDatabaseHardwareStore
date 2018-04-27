@@ -3,7 +3,7 @@ package hardwarestore.items;
 
 /**
  *
- * @author Junye Wen
+ * @author Lawrence Gomez
  */
 public class SmallHardwareItems extends Item {
     protected final String category;
