@@ -9,7 +9,7 @@ package hardwarestore.users;
 
 /**
  *
- * @author Junye Wena
+ * @author Lawrence Gomez
  */
 public class Customer extends User {
     private String phoneNumber;
