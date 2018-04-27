@@ -2,7 +2,7 @@ package hardwarestore.users;
 
 /**
  * Employee is a subclass of User
- * @author Junye Wen
+ * @author Lawrence Gomez
  */
 public class Employee extends User {
     private int socialSecurityNumber;
